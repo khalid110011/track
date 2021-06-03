@@ -1,0 +1,25 @@
+slug: introduction-to-linux
+id: uneixneuxnbo
+version: 0.0.1
+type: track
+title: Introduction to Linux
+teaser: A basic and fun introduction to the world of Linux
+description: ""
+icon: ""
+tags: []
+owner: nuaware
+developers:
+- kitty@nuaware.com
+- khalid@nuaware.com
+private: true
+published: false
+challenges:
+- slug: navigating-the-cli
+  id: mrfreyzeketo
+  type: challenge
+  title: Navigating the CLI
+  teaser: An introduction to the basic navigations of the CLI
+  assignment: Challange
+  difficulty: basic
+  timelimit: 600
+checksum: "5852073652577951076"
